@@ -1,46 +1,60 @@
-<h2>Hello there! 🤖</h2>
+<div>
 
-<p>
+# Shrirang Mahajan
 
-- 🌱 Currently learning about Large Language Models.<br>
-- 👯 Open for collaborations on Deep Learning, Generative AI and Data Science projects!
+> Machine Learning Engineer | Full Stack Developer | AI Enthusiast
 
+[![Main GitHub Account](https://img.shields.io/badge/Main%20Github%20Account-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotShrirang)
+[![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=About.me&logoColor=white)](https://www.shrirangmahajan.in)
 
-<div align="center">
- 
-## Socials
+</div>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrirang-mahajan/)
+## 🎯 Professional Summary
+Dedicated Machine Learning Engineer specializing in Generative AI and Large Language Models. Currently focused on advancing expertise in artificial intelligence and neural network architectures. View my complete portfolio at [shrirangmahajan.in](https://www.shrirangmahajan.in/).
+
+## 🛠️ Core Technical Proficiencies
+
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-white.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Backend Development
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Development Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)
+
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrirang-mahajan/)
 [![HuggingFace](https://img.shields.io/badge/huggingface-FFCA1B?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/NotShrirang)
-[![kaggle](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/notshrirang)
-[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17353907/shrirang-mahajan)
+[![Kaggle](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/notshrirang)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17353907/shrirang-mahajan)
 [![PyPI](https://img.shields.io/badge/pypi-blue?style=for-the-badge&logo=pypi&logoColor=yellow)](https://pypi.org/user/NotShrirang/)
-[![medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@shrirangmahajan123)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@shrirangmahajan123)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/notshrirang)
 
+## 📬 Contact
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=About.me&logoColor=white)](https://www.shrirangmahajan.in)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrirangmahajan123@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-191919?style=for-the-badge&logo=read.cv&logoColor=white)](https://drive.google.com/file/d/1Y7EUEjyumHEovWwSYLUJxiuIzGHj7TuQ/view?usp=sharing)
 
-<h2 align="center">
-  Main GitHub Account
-  
-  [![Main GitHub Account](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotShrirang)
-</h2>
+## 🤝 Open for Collaboration
+Currently seeking collaboration opportunities in:
+- AI/ML Research Initiatives
+- Deep Learning / Machine Learning Collaborations
 
-
-<div align="center">
- 
-## Techstack :
-[![PyTorch](https://img.shields.io/badge/pytorch-white?style=for-the-badge&logo=pytorch&logoColor=orange)](https://pytorch.org/)
-[![Tensorflow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![ScikitLearn](https://img.shields.io/badge/scikit--learn-white.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Django](https://img.shields.io/badge/django-success?style=for-the-badge&logo=django&logoColor=black)](https://www.djangoproject.com/)
-[![FastAPI](https://img.shields.io/badge/fastapi-success?style=for-the-badge&logo=fastapi&logoColor=black)](https://fastapi.tiangolo.com/)
-[![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=black)](https://streamlit.io/)
-[![React](https://img.shields.io/badge/react-0D6D8C?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
-[![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)]([https://www.mysql.com/](https://www.postgresql.org/))
-
-</div>
+---
+*Last Updated: February 2025*
