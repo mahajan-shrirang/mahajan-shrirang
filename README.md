@@ -36,6 +36,14 @@ Dedicated Machine Learning Engineer specializing in Generative AI and Large Lang
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahajan-shrirang&show_icons=true&theme=radical" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahajan-shrirang&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrirang-mahajan/)
 [![HuggingFace](https://img.shields.io/badge/huggingface-FFCA1B?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/NotShrirang)
